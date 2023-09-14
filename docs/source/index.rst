@@ -1,6 +1,6 @@
 Welcome to Wei-Hsuan's homepage!
 =============================================
-This is a experimental personal website for **Wei-Hsuan Cheng**, a MSc student at *department of biomechatronics engineering, national Taiwan university (NTU)*. 
+This is an experimental personal website for **Wei-Hsuan Cheng**, a MSc student at *department of biomechatronics engineering, national Taiwan university (NTU)*. 
 
 Wei-hsuan Cheng's research interest lies on ``control`` and ``robotics``, and the application of ``geometric algebra`` in robotics.
 
